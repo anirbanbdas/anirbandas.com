@@ -1,0 +1,11 @@
+body
+{
+ background-image:url("");
+ background-color: #cccccc;
+ text-align: center;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ height: 500px;
+ text-decoration-color: white;
+}
